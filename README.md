@@ -13,4 +13,4 @@ C:\Users\Vedoka_WST2\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\F
 After placing the script in this folder, it will appear in the Workspace → Scripts → Edit menu inside DaVinci Resolve.
 
   
-<img src="docs/davinci-resolve-bulk-rename-script-v0-b00tttnehchg1.webp" width="800">
+<img src="docs/screenshot.webp" width="800">
